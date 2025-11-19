@@ -9,7 +9,7 @@ body,
     width: 700px;
     height: 300px;
     display: flex;
-    /*justify-content: space-between;*/
+    justify-content: space-evenly;
 }
 
 .flex-container div:nth-child(1), div:nth-child(5) {
